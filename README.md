@@ -7,7 +7,7 @@
 <br>
 [URL Time LLC.](https://www.urltime.org)
 <br>
-[关于我 - ChenSiQi](https://www.chendiqi.xyz)
+[关于我 - ChenSiQi](https://www.chensiqi.xyz)
 ### 邮箱:
 opencode@urltime.cn
 ### 免责声明
